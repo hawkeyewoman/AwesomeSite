@@ -1,0 +1,44 @@
+.jumbotron {
+  background: url(http://tinyurl.com/hcttayp) no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: 500px;
+  image-rendering: auto;
+  image-resolution: from-image;
+}
+
+h1 {
+  color: #FF0DFF;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95, 0 0 75px #ff2d95;
+	letter-spacing: 5px;
+	font: 400px, 'Merienda';
+}
+
+.sweet {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+  color: #fff;
+}
+
+#container {
+  background-color: #FFB3FF;
+}
+
+.form-group {
+margin-left: 150px;
+margin-right: 150px;
+text-align: center;
+}
+
+.col-centered{
+    /*float: none;*/
+    margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  color: #FF0DFF;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95, 0 0 75px #ff2d95;
+	letter-spacing: 5px;
+	font: 400px, 'Merienda';
+}
